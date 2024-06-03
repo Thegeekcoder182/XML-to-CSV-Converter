@@ -1,0 +1,23 @@
+group_items = [0,0,0,0,0]        groups = [] [] [] [] []     
+               min
+
+for time in sorted_classes:                                      118
+	lowest_index =  group_items.index(min(group_items)
+	groups[lowest_index].append(time) 118
+	group_items[lowest_index] = group_items[lowest_index] +time
+
+
+first:
+first_itir = [119,0,0,0,0]                      groups = [119] [68]  [35]    [32]    [25]
+second_itir = [119,68,0,0,0] 			groups = [119] [68] [35,14] [32,10] [25,15,9]	
+third_itir = [119,68,35,0,0] 
+forth_itir = [119,68,35,32,0] 
+fifth_itir = [119,68,35,32,25] 
+                     14 10 15
+			    9	
+second:	
+	first_itir  = [119,68,32,32,40]  
+	second_itir = [119,68,49,32,40] 
+	third_itir  = [119,68,49,42,40] 
+	forth_itir  = [119,68,49,42,49] 
+	fifth_itir  = [119,68,49,51,49] 
