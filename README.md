@@ -22,7 +22,7 @@ Example:
 
 ```python
 import get_parsed_files
-import export_file
+import export_files
 
 # Specify the folder containing XML files
 data_folder = '/path/to/your/xml/files'
